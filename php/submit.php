@@ -3,7 +3,7 @@
 
 // specify your email here
 
-$to = 'bhattaraisolar@gmail.com';
+$to = 'anmengkai93@gmail.com';
 
 
 
